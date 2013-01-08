@@ -6,5 +6,7 @@
     <string name="button_send">WTF?</string>
     <string name="menu_settings">Crazy!!</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_msg">DisplayingOMG...</string>
 
 </resources>
